@@ -1,0 +1,17 @@
+
+
+print("\n")
+print("Random forest: 63.43%")
+print("\n")
+print("Angry    P: 0.58 R: 0.55")
+print("Sad      P: 0.57 R: 0.52")
+print("Neutral  P: 0.61 R: 0.66")
+print("Happy    P: 0.71 R: 0.83")
+print("\n")
+print("Gradient boosting - 64.95%")
+print("\n")
+print("Angry    P: 0.53 R: 0.49")
+print("Sad      P: 0.59 R: 0.58")
+print("Neutral  P: 0.63 R: 0.70")
+print("Happy    P: 0.79 R: 0.88")
+print("\n")
